@@ -17,7 +17,7 @@
  */
 definition(
 	name: "MyQ (Connect)",
-	namespace: "rainlake",
+	namespace: "copy-ninja",
 	author: "Jason Mok",
 	description: "Connect MyQ to control your devices",
 	category: "SmartThings Labs",
